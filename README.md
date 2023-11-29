@@ -1,9 +1,9 @@
 # using the sklearn functions to create and test an Linear Regression Model with
 
-# install 
-# pip3 install scikit-learn
-# pip3 install pandas
-# pip3 install numpy
+### install 
+<pre>pip3 install scikit-learn</pre>
+<pre>pip3 install pandas</pre>
+<pre>pip3 install numpy</pre>
 
-# On ubuntu Linix 
-# python3 422_assignment5.py
+### On ubuntu Linix 
+<pre>python3 422_assignment5.py</pre>
