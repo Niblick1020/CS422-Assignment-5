@@ -1,1 +1,1 @@
-# CS422-Assignment-3
+# using the sklearn functions to create and test an Linear Regression Model with
